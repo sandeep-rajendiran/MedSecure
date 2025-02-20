@@ -83,5 +83,6 @@ BlockChainMedicalCare/
 - Update patient records
 
 ## 🖼️ Screenshots
-![Dashboard](screenshots/dashboard.png)
-![Appointments](screenshots/appointment.png)
+![Dashboard](1.png)
+![Appointments](11.png)
+![Appointments](7.png)
